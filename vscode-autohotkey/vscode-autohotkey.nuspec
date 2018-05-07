@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vscode-autohotkey</id>
+    <title>Visual Studio Code AutoHotkey Extension</title>
+    <version>0.2.2</version>
+    <authors>slevesque</authors>
+    <projectUrl>https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey</projectUrl>
+    <projectSourceUrl>https://github.com/stef-levesque/vscode-autohotkey</projectSourceUrl>
+    <packageSourceUrl>https://github.com/ruapho/chocolatey-packages</packageSourceUrl>
+    <iconUrl>https://github.com/stef-levesque/vscode-autohotkey/blob/master/icon.png?raw=true</iconUrl>
+    <licenseUrl>https://github.com/stef-levesque/vscode-autohotkey/blob/master/LICENSE.md</licenseUrl>
+    <docsUrl>https://github.com/stef-levesque/vscode-autohotkey/blob/master/README.md</docsUrl>
+    <bugTrackerUrl>https://github.com/stef-levesque/vscode-autohotkey/issues</bugTrackerUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Visual Studio Code AutoHotkey Extension</summary>
+    <description>AutoHotKey language support for VS Code: Color Syntax, Comment blocks, Snippets (thanks @denolfe)</description>
+    <tags>Microsoft VisualStudioCode vscode AutoHotKey Extension</tags>
+    <dependencies>
+      <dependency id="VisualStudioCode" version="1.2.0" />
+    </dependencies>
+  </metadata>
+</package>
